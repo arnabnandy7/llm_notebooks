@@ -29,9 +29,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
  - [DeepLearning.ai](https://deeplearning.ai/)
 
-<!-- GitAds-Verify: 3K9ZW6TJIBG35P7J1AUDFFNC3X53ZI8H -->
-
 ## Feedback
 
 If you have any feedback, please reach out to me by creating an [issue](https://github.com/arnabnandy7/arnabnandy7/issues).
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/llm_notebooks@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/llm_notebooks@github)
 
